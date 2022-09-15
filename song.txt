@@ -1,2 +1,6 @@
 sword
 wall
+standing
+battle
+form
+shield
